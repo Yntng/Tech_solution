@@ -20,7 +20,7 @@ From the menu, select **Admin** to go to the Admin Center.
 
 
 
-### 3. **Go to Active Users**
+### 3. **Go to Active Users**   
 In the **Admin Center**, click on **Active users**.
 
 ![Admin Center 1](https://github.com/user-attachments/assets/de5aa793-dfd4-47f1-9eb5-146d0e4dde51)
