@@ -13,12 +13,15 @@ If you are using an email address that is shared by multiple users, it's importa
 ### Step 1: Access Your Microsoft Account
 1. Go to the [**Microsoft Account page**](https://account.microsoft.com).
 2. Sign in using your **email address** and **password**.
+
 ![Alt text](./Account%20.png)
 
 
 ### Step 2: Navigate to the Security Section
 1. Once logged in, click on **"View account"** to open your account settings. 
+
 ![Alt text](./View%20Account.png)
+
 2. In the navigation bar, select **"Security"** to manage your account's security settings.
 ![Alt text](./Security%20Info.png)
 
@@ -29,7 +32,9 @@ If you are using an email address that is shared by multiple users, it's importa
 
 ### Step 4: Select the Authenticator App
 1. In the list of available sign-in methods, choose **"Authenticator app"**.
+
 ![Alt text](./sign-in%20method.png)
+
 2. Click **"Add"** next to the **Authenticator app** option.
 
 ### Step 5: Set Up the Authenticator App
