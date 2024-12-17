@@ -1,4 +1,4 @@
-# How to change printer setting for A3 paper 
+# Printer setting for A3 size paper 
 
 ### Setting 1: Printer Preferences
 1. Go to --> **Control Panel** 
