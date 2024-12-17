@@ -45,3 +45,5 @@
 ![Alt text](./Print%20option.png)
 
 6. Click **Print** to send the document to the printer.
+
+---
