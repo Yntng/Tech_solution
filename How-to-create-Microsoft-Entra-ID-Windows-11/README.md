@@ -10,12 +10,12 @@ Follow these steps to join your device to Microsoft Entra ID:
 2. **Navigate to Account Settings**  
    In the Settings window, select **Accounts** from the list of options.
 
-   ![Alt text](./Accounts.png)
+   ![Alt text](./account.png)
 
 3. **Access Work or School**  
    Under the **Accounts** section, click on **Access work or school**.
 
-   ![Alt text](./Access%20work%20or%20school.png)
+   ![Alt text](./access%20work%20or%20school.png)
 
 4. **Connect to Entra ID**  
    Click the **Connect** button to begin the process of linking your device.
