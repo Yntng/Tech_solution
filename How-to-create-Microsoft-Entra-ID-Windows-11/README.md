@@ -20,7 +20,7 @@ Follow these steps to join your device to Microsoft Entra ID:
 4. **Connect to Entra ID**  
    Click the **Connect** button to begin the process of linking your device.
 
-   ![Alt text](./Connect.png)
+   ![Alt text](./connect.png)
 
 5. **Join the Device to Microsoft Entra ID**  
    Choose the option to **Join this device to Microsoft Entra ID**.
