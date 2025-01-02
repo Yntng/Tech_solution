@@ -22,22 +22,22 @@ Follow these steps to join your device to Microsoft Entra ID:
 
    ![Alt text](./connect.png)
 
-5. **Join the Device to Microsoft Entra ID**  
+6. **Join the Device to Microsoft Entra ID**  
    Choose the option to **Join this device to Microsoft Entra ID**.
 
    ![Alt text](./Microsoft%20Entra%20ID.png)
 
-6. **Enter Your Email Address**  
+7. **Enter Your Email Address**  
    Provide your email address associated with Microsoft Entra ID.
 
    ![Alt text](./Enter%20Email%20address.png)
 
-7. **Enter Your Password**  
+8. **Enter Your Password**  
    Enter the password for your Microsoft Entra ID account.
 
    ![Alt text](./Enter%20Password.png)
 
-8. **Approve Sign-in Request**  
+9. **Approve Sign-in Request**  
    You will receive a sign-in request on your **Authenticator app**. Open the app, and enter the code or approve the request to continue.
 
   ![Alt text](./Approve%20Sign%20in.png)
