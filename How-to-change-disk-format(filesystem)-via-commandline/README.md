@@ -4,7 +4,7 @@
 
  1. **Open Command Prompt as Administrator**
  
- Type cmd in search bar and select "Command Prompt (Admin)
+ Type cmd in search bar and select "Command Prompt" run as Administrator
 
 ![Alt text](./cmd%20as%20admin.png)
 
